@@ -17,3 +17,8 @@ Talk to me about:
 - Plants
 - Stuff that YOU'RE passionate about!
 - Better ways that I can write code
+
+Where you can find me:
+
+[Personal Github](https://github.com/ivanmartinezmorales)
+[LinkedIn](https://linkedin.com/in/imartinezmorales)
