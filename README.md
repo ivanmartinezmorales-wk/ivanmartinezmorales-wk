@@ -21,4 +21,5 @@ Talk to me about:
 Where you can find me:
 
 [Personal Github](https://github.com/ivanmartinezmorales)
+
 [LinkedIn](https://linkedin.com/in/imartinezmorales)
